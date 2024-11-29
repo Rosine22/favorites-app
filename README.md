@@ -1,20 +1,35 @@
-HEAD
+
 # favorites_app
 
-A new Flutter project.
+A simple Flutter app that allows users to browse a list of products and add/remove them from their favorites.
 
-## Getting Started
+## features
 
-This project is a starting point for a Flutter application.
+- View a list of products.
 
-A few resources to get you started if this is your first Flutter project:
+- Add and remove products to or from favorites.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Switch between Product List and Favorites screens using a bottom navigation bar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# favorites-app
->>>>>>> ee66aa95b9d28d33a7688546026e739d873cb4ac
+## Installation
+
+  1. Clone the repository:
+`git clone https://github.com/your-username/favorites-app.git`
+
+2. Navigate to the project directory:
+`cd favorites-app`
+
+ 3. Install dependencies:
+`flutter pub get`
+
+4. Run the app:
+`flutter run`
+
+## Dependencies
+- flutter: The Flutter SDK.
+- provider: For state management.
+
+
+                       
+
+
