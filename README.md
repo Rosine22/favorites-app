@@ -17,4 +17,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # favorites-app
->>>>>>> ee66aa95b9d28d33a7688546026e739d873cb4ac
+
